@@ -29,8 +29,3 @@ I build [**Gaplessly**](https://gaplessly.com), white-label booking software for
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 </p>
-
-<!-- Trophies only list the tiers already earned, so empty "?" cups never show. Delete this block if it looks thin. -->
-<p>
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=brunomelani&theme=flat&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=6">
-</p>
